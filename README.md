@@ -1,1 +1,1 @@
-# guess-my-word
+# guess-my-word game
